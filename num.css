@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding :0px;
+    background-color: blueviolet;
+    color:azure;  
+    text-align: center;
+}
+h1{
+     font-size:50px;
+}
+input{
+    width: 75px;
+    height: 60px;
+    font-size: 50px;
+    border-radius: 15px;
+    margin: 10px;
+}
